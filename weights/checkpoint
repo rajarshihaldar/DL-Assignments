@@ -1,0 +1,6 @@
+model_checkpoint_path: "model_gs-10080"
+all_model_checkpoint_paths: "model_gs-2520"
+all_model_checkpoint_paths: "model_gs-5040"
+all_model_checkpoint_paths: "model_gs-5460"
+all_model_checkpoint_paths: "model_gs-8400"
+all_model_checkpoint_paths: "model_gs-10080"
